@@ -165,7 +165,9 @@ you may set description of it, add character or item, linked rooms to wich you m
     
     def get_name(self):
        
- - class Support(Item):(Item class child.Give you 1 additional point)
+ - class Support(Item):
+ 
+ (Item class child.Give you 1 additional point)
     
     def treat(self):
        
