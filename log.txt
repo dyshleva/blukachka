@@ -1,0 +1,102 @@
+
+
+Стрийська
+--------------------
+вулиця, з якої починається подорож
+The Козельницька is next
+The [flowers] is here -Bright flowers (hint: what will cavalers gift to their lovely girlfriends?)
+> take
+You put the flowers in your backpack
+
+
+Стрийська
+--------------------
+вулиця, з якої починається подорож
+The Козельницька is next
+> next
+
+
+Козельницька
+--------------------
+вулиця, на якій чомусь немає кіз
+The І.Франка is next
+The Стрийська is previous
+The secret street is provulok
+Dave is here!
+An ordinary zombie
+> provulok
+
+
+secret street
+--------------------
+вулиця secret, бо ніхто не знає, що там
+The Козельницька is previous
+cavaler is here!
+A great guy that may gift you something special (try to please him)+
+The [juice] is here -peach juice
+> take
+This item -juice- has given you one more point
+your score 1
+
+
+secret street
+--------------------
+вулиця secret, бо ніхто не знає, що там
+The Козельницька is previous
+cavaler is here!
+A great guy that may gift you something special (try to please him)+
+> please
+What will you give him?
+ flowers
+flowers
+Hooray, you won the joke! Ubuntu users are apt to get this joke.
+go to the krakivska street to win!
+
+
+secret street
+--------------------
+вулиця secret, бо ніхто не знає, що там
+The Козельницька is previous
+> previous
+
+
+Козельницька
+--------------------
+вулиця, на якій чомусь немає кіз
+The І.Франка is next
+The Стрийська is previous
+The secret street is provulok
+Dave is here!
+An ordinary zombie
+> next
+
+
+І.Франка
+--------------------
+вулиця названа в честь відомого українського поета
+The пр.Т.Шевченка is next
+The Козельницька is previous
+Crave is here!
+Really strong enemy with unexpectable results after fight 
+The [book] is here -A really good book kills many zombies
+> next
+
+
+пр.Т.Шевченка
+--------------------
+вулиця 4
+The вул. Краківськаа is next
+The І.Франка is previous
+Mave is here!
+you need 2 same objects to kill this enemy
+The [knife] is here -A big amnd dangerous knife
+> next
+
+
+вул. Краківськаа
+--------------------
+вулиця остання
+The пр.Т.Шевченка is previous
+The Стрийська is taxi
+The [knife] is here -A big amnd dangerous knife
+Congratulations, you have won
